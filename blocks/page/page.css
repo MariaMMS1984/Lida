@@ -8,3 +8,9 @@
     /* выше для экранов больше 1600px отцентрировали весь контент */
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
+
+@media screen and (max-width:600px) {
+    .page {
+        max-width: 600px;
+    }
+}
