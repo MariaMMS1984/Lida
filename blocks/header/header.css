@@ -5,7 +5,7 @@
     max-height: 600px;
     margin: 0;
     padding: 0;
-    border: 1px solid rgb(129 216 208);
+    border: 1px solid red;
     /* выше установили ограничения для секции */
 }
 
