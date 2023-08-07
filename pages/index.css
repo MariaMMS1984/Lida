@@ -11,6 +11,7 @@
 @import url(../blocks/services/__text/services__text.css);
 @import url(../blocks/services/__heading/services__heading.css);
 @import url(../blocks/services/__bigtext/services__bigtext.css);
+@import url(../blocks/services/__triangle/services__triangle.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__address/footer__adress.css);
 @import url(../blocks/footer/__heading/footer__heading.css);
@@ -19,3 +20,4 @@
 @import url(../blocks/footer/__email/footer__email.css);
 @import url(../blocks/footer/__telegram/footer__telegram.css);
 @import url(../blocks/footer/__whatsapp/footer__whatsapp.css);
+@import url(../blocks/rotation/rotation.css);

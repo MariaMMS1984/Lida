@@ -1,3 +1,8 @@
+.services__text {
+    z-index: 1
+}
+
+
 .services__text:hover {
     cursor: pointer;
     opacity: 0.5;
