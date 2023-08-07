@@ -5,10 +5,12 @@
     align-items: self-start;
     margin-top: 50px;
     padding: 0;
+    border: 1px solid blue;
 }
 
 @media screen and (max-width:600px) {
     .services {
         max-width: 100vw;
+
     }
 }
