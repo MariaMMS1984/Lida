@@ -7,12 +7,12 @@
     padding: 0;
     list-style-type: none;
     align-self: start;
-    border: 1px solid red;
 }
 
 @media screen and (max-width:600px) {
     .services__individuals {
         margin-left: 5px;
+        margin-top: 10PX;
         width: 95vw;
     }
 }
