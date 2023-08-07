@@ -1,9 +1,9 @@
 .services__triangle {
     position: absolute;
-    top: 0;
-    right: 0;
-    width: 877px;
-    height: 877px;
+    top: 400px;
+    right: 150px;
+    width: 577px;
+    height: 577px;
     z-index: 0;
     background-image: url(../../../images/kaufman-triangle.svg);
     background-size: contain;

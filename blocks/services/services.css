@@ -5,6 +5,7 @@
     align-items: self-start;
     margin-top: 50px;
     padding: 0;
+    overflow: hidden;
 }
 
 @media screen and (max-width:600px) {
