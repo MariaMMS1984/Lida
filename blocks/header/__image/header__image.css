@@ -13,3 +13,9 @@
     max-height: 500px;
     opacity: 0.2;
 }
+
+@media screen and (max-width:600px) {
+    .header__image {
+        max-height: 200px;
+    }
+}
