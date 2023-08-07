@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0">
+    <title>Компания "ЛиАр"</title>
+    <link rel="stylesheet" href="./pages/index.css">
+</head>
+
+<body class="body">
+    <div class="page">
+        <header class="header">
+            <div class="header__illustration">
+                <h1 class="header__title">ЛиАр</h1>
+                <p class="header__subtitle">юридическое сопровождение</p>
+                <img src="./images/весы.png" class="header__image" alt="весы">
+            </div>
+        </header>
+        <main>
+            <section class="services">
+                <ul class="services__business">
+                    <li class="services__heading">Услуги для бизнеса:</li>
+                    <li class="services__text" href="#" onclick="document.getElementById('mytext').classList.toggle('opened');
+                    return false;">1. Абонентское обслуживание</li>
+                    <div class="textbox" id="mytext">
+                        много абонентов
+                    </div>
+                    <li class="services__text" href="#" onclick="document.getElementById('corptext').classList.toggle('opened');
+                    return false;">2. Услуги в области корпоративного права</li>
+                    <div class="textbox" id="corptext">
+                        корпоративы
+                    </div>
+                    <li class="services__text">3. Таможенные споры</li>
+                    <li class="services__text">4. Лицензирование деятельности</li>
+                    <li class="services__text">5. Банкротство юридич лиц</li>
+                    <li class="services__text">6. Сопровождение сделок с недвижимостью </li>
+                </ul>
+                <ul class="services__individuals">
+                    <li class="services__heading">Услуги для населения:</li>
+                    <li class="services__text">1. Банкротство физич лиц</li>
+                    <li class="services__text">2. Земельные споры</li>
+                    <li class="services__text">3. Защита прав детей</li>
+                    <li class="services__text">4. Семейные споры</li>
+                    <li class="services__text">5. Трудовые споры</li>
+                    <li class="services__text">6. Наследственное право</li>
+                    <li class="services__text">7. Жилищные споры</li>
+                    <li class="services__text">8. Страховые споры</li>
+                </ul>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <div class="footer__illustration">
+                <h2 class="footer__heading">Компания «ЛиАр»</h2>
+                <p class="footer__adress">Фактический адрес: г. Балашиха, ул. Советская, дом 56</p>
+                <p class="footer__phone">Тел.: +7 (495) 544-66-06, +7 (925) 260-39-09</p>
+                <p class="footer__email">Liar-company@bk.ru</p>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>

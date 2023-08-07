@@ -1,0 +1,12 @@
+.footer__heading {
+    display: flex;
+    text-align: flex-start;
+    z-index: 2;
+    flex-direction: column;
+    line-height: 28px;
+    font-size: 22px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    color: #f2f2f2;
+}

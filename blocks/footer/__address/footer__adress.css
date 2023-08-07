@@ -1,0 +1,12 @@
+.footer__adress {
+    display: flex;
+    text-align: flex-start;
+    z-index: 2;
+    flex-direction: column;
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    color: #f2f2f2;
+}

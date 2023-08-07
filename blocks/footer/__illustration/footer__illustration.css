@@ -1,0 +1,11 @@
+.footer__illustration {
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+    background-color: rgb(129 216 208);
+    width: 100%;
+    justify-content: center;
+    margin: 0;
+    padding: 10px;
+    gap: 8px;
+}

@@ -1,0 +1,15 @@
+.header__image {
+    display: flex;
+    position: absolute;
+    right: 0;
+    top: 0;
+    flex-direction: column;
+    z-index: 0;
+    width: 100%;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    object-fit: fill;
+    max-height: 500px;
+    opacity: 0.2;
+}

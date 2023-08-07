@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    position: relative;
+    min-height: 500px;
+    max-height: 600px;
+    margin: 0;
+    padding: 0;
+    /* выше установили ограничения для секции */
+}

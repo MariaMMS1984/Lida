@@ -1,0 +1,9 @@
+.textbox {
+    overflow: hidden;
+    height: 0px;
+}
+
+.opened {
+    overflow: auto;
+    height: auto;
+}
