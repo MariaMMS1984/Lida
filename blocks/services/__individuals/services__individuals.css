@@ -1,5 +1,5 @@
 .services__individuals {
-    width: 50%;
+    width: 50vw;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -7,4 +7,5 @@
     padding: 0;
     list-style-type: none;
     align-self: start;
+    border: 1px solid red;
 }
