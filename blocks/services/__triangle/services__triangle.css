@@ -8,3 +8,10 @@
     background-image: url(../../../images/kaufman-triangle.svg);
     background-size: contain;
 }
+
+@media screen and (max-width:600px) {
+    .services__triangle {
+        top: 200PX;
+        right: 0;
+    }
+}
