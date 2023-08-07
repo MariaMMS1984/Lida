@@ -9,3 +9,10 @@
     align-self: start;
     border: 1px solid red;
 }
+
+@media screen and (max-width:600px) {
+    .services__individuals {
+        margin-left: 5px;
+        width: 95vw;
+    }
+}

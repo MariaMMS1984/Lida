@@ -11,5 +11,6 @@
 @media screen and (max-width:600px) {
     .services__business {
         margin-left: 5px;
+        width: 95vw;
     }
 }
