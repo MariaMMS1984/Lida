@@ -1,6 +1,6 @@
 .services__image {
-    width: 45px;
-    height: 45px;
+    width: 44px;
+    height: 44px;
     margin-left: 5vw;
     z-index: 1;
 }
@@ -9,6 +9,5 @@
     .services__image {
         width: 35px;
         height: 35px;
-        margin-left: 30vw;
     }
 }
