@@ -1,0 +1,13 @@
+.services__image {
+    width: 45px;
+    height: 45px;
+    margin-left: 5vw;
+    z-index: 1;
+}
+
+@media screen and (max-width:600px) {
+    .services__image {
+        width: 20px;
+        height: 20px;
+    }
+}

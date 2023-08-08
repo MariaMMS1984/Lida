@@ -12,6 +12,7 @@
 @import url(../blocks/services/__heading/services__heading.css);
 @import url(../blocks/services/__bigtext/services__bigtext.css);
 @import url(../blocks/services/__triangle/services__triangle.css);
+@import url(../blocks/services/__image/services__image.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__address/footer__adress.css);
 @import url(../blocks/footer/__heading/footer__heading.css);
