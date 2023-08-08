@@ -3,3 +3,9 @@
     position: relative;
     margin: 70px 0 0;
 }
+
+@media screen and (max-width:600px) {
+    .footer {
+        margin-top: 30px;
+    }
+}
