@@ -4,12 +4,13 @@
     margin-left: 5vw;
     margin-right: 40vw;
     z-index: 1;
-    padding-top: 5px;
+    padding-top: 2px;
 }
 
 @media screen and (max-width:600px) {
     .money__image {
         width: 35px;
         height: 35px;
+        margin-right: 5vw;
     }
 }
