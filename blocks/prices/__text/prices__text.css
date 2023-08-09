@@ -6,6 +6,5 @@
 @media screen and (max-width:600px) {
     .prices__text {
         text-align: justify;
-        border: 1px solid red;
     }
 }
