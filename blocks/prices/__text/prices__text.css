@@ -1,3 +1,10 @@
 .prices__text {
     z-index: 1;
 }
+
+
+@media screen and (max-width:600px) {
+    .prices__text {
+        text-align: justify;
+    }
+}
