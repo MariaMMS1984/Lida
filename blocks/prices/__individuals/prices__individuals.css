@@ -12,6 +12,6 @@
     .prices__individuals {
         margin-left: 5px;
         margin-top: 18PX;
-        width: 95vw;
+        max-width: 95vw;
     }
 }
