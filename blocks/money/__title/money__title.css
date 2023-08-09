@@ -12,6 +12,7 @@
 @media screen and (max-width:600px) {
     .money__title {
         margin-left: 5px;
+        padding-top: 3px;
         max-width: 95vw;
         line-height: 28px;
         font-size: 22px;

@@ -11,3 +11,9 @@
     color: #f2f2f2;
     font-style: italic;
 }
+
+@media screen and (max-width:600px) {
+    .footer__telegram {
+        padding: 0;
+    }
+}

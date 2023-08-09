@@ -10,3 +10,9 @@
     padding: 0 0 0 10px;
     color: #f2f2f2;
 }
+
+@media screen and (max-width:600px) {
+    .footer__email {
+        padding: 0;
+    }
+}
