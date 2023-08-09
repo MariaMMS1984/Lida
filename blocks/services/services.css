@@ -6,7 +6,7 @@
     margin: 0;
     padding: 30px 0 20px 0;
     overflow: hidden;
-    background-color: white;
+    background: floralwhite;
 }
 
 @media screen and (max-width:600px) {
