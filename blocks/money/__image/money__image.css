@@ -1,0 +1,15 @@
+.money__image {
+    width: 44px;
+    height: 44px;
+    margin-left: 5vw;
+    margin-right: 40vw;
+    z-index: 1;
+    padding-top: 5px;
+}
+
+@media screen and (max-width:600px) {
+    .money__image {
+        width: 35px;
+        height: 35px;
+    }
+}

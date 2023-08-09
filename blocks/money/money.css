@@ -1,0 +1,6 @@
+.money {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 3px solid rgb(129 216 208);
+}

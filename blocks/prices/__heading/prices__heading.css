@@ -1,0 +1,14 @@
+.prices__heading {
+    line-height: 28px;
+    font-size: 25px;
+    font-weight: normal;
+    margin-bottom: 10px;
+    z-index: 1;
+}
+
+@media screen and (max-width:600px) {
+    .prices__heading {
+        line-height: 23px;
+        font-size: 22px;
+    }
+}

@@ -1,0 +1,18 @@
+.prices__individuals {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    align-self: start;
+}
+
+@media screen and (max-width:600px) {
+    .prices__individuals {
+        margin-left: 5px;
+        margin-top: 18PX;
+        width: 95vw;
+    }
+}

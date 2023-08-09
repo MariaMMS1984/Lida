@@ -13,6 +13,14 @@
 @import url(../blocks/services/__bigtext/services__bigtext.css);
 @import url(../blocks/services/__triangle/services__triangle.css);
 @import url(../blocks/services/__image/services__image.css);
+@import url(../blocks/prices/prices.css);
+@import url(../blocks/prices/__business/prices__business.css);
+@import url(../blocks/prices/__individuals/prices__individuals.css);
+@import url(../blocks/prices/__heading/prices__heading.css);
+@import url(../blocks/prices/__text/prices__text.css);
+@import url(../blocks/money/money.css);
+@import url(../blocks/money/__title/money__title.css);
+@import url(../blocks/money/__image/money__image.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__address/footer__adress.css);
 @import url(../blocks/footer/__heading/footer__heading.css);
